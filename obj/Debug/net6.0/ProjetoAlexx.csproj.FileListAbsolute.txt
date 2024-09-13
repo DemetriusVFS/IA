@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ProjetoAlexx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ProjetoAlexx.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ProjetoAlexx.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ProjetoAlexx.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\bin\Debug\net6.0\ProjetoAlexx.exe
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\bin\Debug\net6.0\ProjetoAlexx.deps.json
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\bin\Debug\net6.0\ProjetoAlexx.runtimeconfig.json
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\bin\Debug\net6.0\ProjetoAlexx.dll
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\bin\Debug\net6.0\ProjetoAlexx.pdb
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ProjetoAlexx.dll
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\refint\ProjetoAlexx.dll
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ProjetoAlexx.pdb
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ProjetoAlexx.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Demétrius Bag\ProjetoAlexx\obj\Debug\net6.0\ref\ProjetoAlexx.dll
